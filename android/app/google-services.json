@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321698490873",
+    "firebase_url": "https://music-maniac-491ac.firebaseio.com",
+    "project_id": "music-maniac-491ac",
+    "storage_bucket": "music-maniac-491ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321698490873:android:f4f4a28870f818d3",
+        "android_client_info": {
+          "package_name": "com.mushroomstudios.musicmaniac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321698490873-hhaghek7qbbqsrt7b7od6sf4eb1cfml2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzHOg_o_k1fZQc13Sev7c23Yu_EolwCL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321698490873-hhaghek7qbbqsrt7b7od6sf4eb1cfml2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
